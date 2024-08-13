@@ -16,18 +16,18 @@ $(document).ready(function(){
                 <div style="padding-top:30px; display: flex; justify-content: space-between; flex-direction: column;">
                     <ul>
                         <li>
-                            <p>11 99999-9999</p>
+                            <p>11 99664-7247</p>
                         </li>
                         <li>
-                            <a style="text-decoration: none; color: #000;" href="#">email@email.com</a>
+                            <a style="text-decoration: none; color: #000;" href="#">mangara.arq@gmail.com</a>
                         </li>
                     </ul>
                     <ul>
                         <li>
-                            <a style="text-decoration: none; color: #000;" href="#">Instagram</a>
+                            <a style="text-decoration: none; color: #000;" href="https://www.instagram.com/mangara.arq/">Instagram</a>
                         </li>
                         <li>
-                            <a style="text-decoration: none; color: #000;" href="#">WhatsApp</a>
+                            <a style="text-decoration: none; color: #000;" href="https://api.whatsapp.com/send?phone=5511978746111">WhatsApp</a>
                         </li>
                     </ul>
                 </div> </footer<`
