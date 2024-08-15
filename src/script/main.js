@@ -16,7 +16,7 @@ $(document).ready(function(){
                 <div style="padding-top:30px; display: flex; justify-content: space-between; flex-direction: column;">
                     <ul>
                         <li>
-                            <p>11 99664-7247</p>
+                            <p>11 97874-6111</p>
                         </li>
                         <li>
                             <a style="text-decoration: none; color: #000;" href="#">mangara.arq@gmail.com</a>

@@ -44,6 +44,11 @@
     height: 100vh;
     display: flex;
     overflow-y: hidden;
+
+        @media (max-width:769px){
+            display: block;
+            overflow-y: scroll;
+        }
 }
 
 .header {
