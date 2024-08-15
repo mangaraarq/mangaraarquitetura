@@ -7,9 +7,6 @@ document.addEventListener("DOMContentLoaded", function(){
     const imgProjeto = document.querySelectorAll('.img_projetos')
     const ocultaProjeto = document.querySelectorAll('.oculta_projetos')
 
-    console.log(ulClass)
-    console.log(ulClass[0].children[1].innerHTML)
-
 
         if (largura < 759){
             imgProjeto.forEach(function(element){
@@ -49,7 +46,6 @@ document.addEventListener("DOMContentLoaded", function(){
         ids[i].addEventListener('click', function(){
             const idAlvo = this.id
             const dataId = document.querySelector(`[data-tab-id=${idAlvo}]`)
-            console.log(dataId)
                 dataId.classList.add('projetos__section--is-active')
                 removeCabeçalho()
                 })
